@@ -80,15 +80,3 @@ https://www.linkedin.com/posts/ayan-ali0249_python-voiceassistant-artificialinte
 ## Contributing
 Feel free to fork this project, make changes, and create a pull request. Contributions are always welcome!
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-### Explanation:
-- **Project Overview**: A brief description of the project and its purpose.
-- **Features**: Highlights the key functionalities of the voice assistant.
-- **Installation**: Provides clear steps to set up the project on a local machine.
-- **Usage**: Lists voice commands that the assistant recognizes and responds to.
-- **Libraries Used**: Mentions the libraries used in the project.
-- **Contributing**: Encourages contributions and collaboration on the project.
-- **License**: Specifies that the project uses the MIT license.
